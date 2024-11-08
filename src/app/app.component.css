@@ -1,0 +1,18 @@
+nav {
+  background-color: #333;
+  padding: 1em;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1em;
+}
+nav ul li a {
+  color: #fff;
+  text-decoration: none;
+}
+footer {
+  text-align: center;
+  padding: 1em;
+  font-size: 0.8em;
+}

@@ -1,0 +1,12 @@
+.message {
+  padding: 8px;
+  border-bottom: 1px solid #ddd;
+}
+.sender {
+  font-weight: bold;
+  color: #333;
+}
+.text {
+  margin-left: 10px;
+  color: #555;
+}

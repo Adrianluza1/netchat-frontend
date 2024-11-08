@@ -1,0 +1,14 @@
+.task-detail {
+  padding: 16px;
+}
+.task-info {
+  margin-bottom: 12px;
+}
+.task-info label {
+  font-weight: bold;
+  display: inline-block;
+  width: 80px;
+}
+button {
+  margin-top: 20px;
+}

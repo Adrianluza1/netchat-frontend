@@ -1,0 +1,36 @@
+.chat-room {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+.messages {
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+  border: 1px solid #ddd;
+  padding: 10px;
+  height: 300px;
+  overflow-y: auto;
+}
+.input-area {
+  display: flex;
+  width: 100%;
+  max-width: 600px;
+}
+.input-area input {
+  flex: 1;
+  padding: 10px;
+  font-size: 1em;
+}
+.input-area button {
+  padding: 10px 20px;
+  font-size: 1em;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+.input-area button:hover {
+  background-color: #0056b3;
+}
